@@ -10,4 +10,4 @@ Designed interactive features like slicers to allow us to explore data in more d
 
 Provide a comprehensive view of sales performance allowing for identification of areas for improvement and optimization. 
 
-Technologies used : power query,DAX,Microsoft power BI desktop,Microsoft excel.
+**Technologies used :** power query,DAX,Microsoft power BI desktop,Microsoft excel.
